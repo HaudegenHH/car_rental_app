@@ -36,3 +36,7 @@ https://www.imagin.studio/car-image-api
 
 - sign up for 60 days free trial
 - get the customer key and copy/paste into .env.local
+
+---
+
+- changed from serverside to clientside rendering in the end because there is a little bug (changed scroll position when changing the url parameters) in NextJS which is hopefully gonna be fixed soon.
